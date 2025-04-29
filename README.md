@@ -13,7 +13,7 @@ The DeepLander project simulates a lunar lander environment where an agent learn
 - **Environment: LunarLander-v2 (OpenAI Gym)**
 
 ## 📁 Files
-- `Lunar_Landing_Using_Deep_Q_Learning.ipynb`: Main notebook with training, evaluation, and results.
+- `Lunar_Landing.ipynb`: Main notebook with training, evaluation, and results.
 - `README.md`: Project documentation.
 
 ## 🛠️ Libraries Used
