@@ -3,7 +3,7 @@
 A Deep Reinforcement Learning project that leverages Deep Q-Learning (DQN) to train an intelligent agent capable of controlling lunar thrusters for a safe and efficient moon landing.
 
 ## 🚀 Project Overview
-The DeepLander project simulates a lunar lander environment where an agent learns optimal landing strategies through trial and error using Deep Q-Learning. The environment is based on OpenAI Gym's `LunarLander-v2`.
+The DeepLander project simulates a lunar lander environment where an agent learns optimal landing strategies through trial and error using Deep Q-Learning. The environment is based on OpenAI Gym's `LunarLander-v3`.
 
 ## 🧠 Key Concepts
 - **Deep Q-Learning (DQN)**
