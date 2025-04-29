@@ -24,9 +24,10 @@ A Deep Reinforcement Learning project that uses Deep Q-Learning (DQN) to train a
 - `README.md` – Project documentation.
 
 ---
-- `matplotlib`
-- `torch` *(or `tensorflow`, depending on the framework used)*
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
+## 🛠 Dependencies
+- Python 3.8+
+- `gymnasium[box2d]` (for `LunarLander-v3`)
+- `numpy`
+- `matplotlib`
+- `torch`
